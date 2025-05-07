@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090" alt="anwesha-mishra-9090" /></a> </p>
 
-- 🔭 I’m currently working on **Exciting Projects**
+- 🔭 I’m currently working on *Exciting Projects*
 
-- 🌱 I’m currently learning **Python, NumPy, Pandas, Flask, API, PostgreSQL, HTML, CSS, DSA and Open Source**
+- 🌱 I’m currently learning *Python, NumPy, Pandas, Flask, API, PostgreSQL, HTML, CSS, DSA and Open Source*
 
-- 👯 I’m looking to collaborate on **exciting projects and open-source contributions**
+- 👯 I’m looking to collaborate on *exciting projects and open-source contributions*
 
-- 🤝 I’m looking for help with **Seeking Collaboration on Open-Source Initiatives**
+- 🤝 I’m looking for help with *Seeking Collaboration on Open-Source Initiatives*
 
-- 💬 Ask me about **the codes i mentioned above 😄**
+- 💬 Ask me about *the codes i mentioned above 😄*
 
-- 📫 How to reach me **mishra.anwesha143@gmail.com**
+- 📫 How to reach me *mishra.anwesha143@gmail.com*
 
-- ⚡ Fun fact **I enjoy solving small problems and watching my code work!**
+- ⚡ Fun fact *I enjoy solving small problems and watching my code work!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&locale=en" alt="anwesha-mishra-9090" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwesha-mishra-9090&" alt="anwesha-mishra-9090" /></p>
-
