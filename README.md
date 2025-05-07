@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anwesha Mishra</h1>
 <h3 align="center">Aspiring backend developer | Software developer | data engineer from India</h3>
-<img align = "right" alt = "coding" width = "400" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
+<img align = "center" alt = "coding" width = "400" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=Profile%20views&color=0e75b6&style=flat" alt="anwesha-mishra-9090" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090" alt="anwesha-mishra-9090" /></a> </p>
