@@ -28,6 +28,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anwesha+Mishra;Python+Developer+%7C+API+%7C+DSA+Enthusiast;Always+Learning+Something+New+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
+<img src="https://github.com/Anwesha-mishra-9090/your-repo/blob/main/banner.png?raw=true" />
 
 ---
 
