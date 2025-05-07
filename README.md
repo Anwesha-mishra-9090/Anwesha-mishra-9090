@@ -1,38 +1,71 @@
 ![logo](https://github.com/Anwesha-mishra-9090/Anwesha-mishra-9090/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Anwesha Mishra</h1>
-<h3 align="center">Aspiring backend developer | Software developer | data engineer from India</h3>
-<img align = "center" alt = "coding" width = "400" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=Profile%20views&color=0e75b6&style=flat" alt="anwesha-mishra-9090" /> </p>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Aspiring+Backend+Developer;Software+Developer;Data+Engineer+from+India" alt="Typing SVG" /></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090" alt="anwesha-mishra-9090" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
-- 🔭 I’m currently working on *Exciting Projects*
-
-- 🌱 I’m currently learning *Python, NumPy, Pandas, Flask, API, PostgreSQL, HTML, CSS, DSA and Open Source*
-
-- 👯 I’m looking to collaborate on *exciting projects and open-source contributions*
-
-- 🤝 I’m looking for help with *Seeking Collaboration on Open-Source Initiatives*
-
-- 💬 Ask me about *the codes i mentioned above 😄*
-
-- 📫 How to reach me *mishra.anwesha143@gmail.com*
-
-- ⚡ Fun fact *I enjoy solving small problems and watching my code work!*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/30472215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30472215" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mishra_anwesha11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mishra_anwesha11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anweshamishra123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anweshamishra123" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@anwesharicvt61/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@anwesharicvt61/profile" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=Profile%20views&color=0e75b6&style=flat" alt="anwesha-mishra-9090" /> 
+  <img src="https://img.shields.io/github/followers/anwesha-mishra-9090?label=Followers&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwesha-mishra-9090&show_icons=true&locale=en&layout=compact" alt="anwesha-mishra-9090" /></p>
+- 🔭 Currently working on **Exciting Projects**
+- 🌱 Learning **Python, NumPy, Pandas, Flask, API, PostgreSQL, HTML, CSS, DSA and Open Source**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 🤝 Open to collaborate on **Backend & Data Engineering**
+- 💬 Ask me about **Python, Flask, Pandas, SQL, DSA**
+- 📫 Reach me at **mishra.anwesha143@gmail.com**
+- ⚡ Fun fact: *I enjoy solving small problems and watching my code work!*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&locale=en" alt="anwesha-mishra-9090" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwesha-mishra-9090&" alt="anwesha-mishra-9090" /></p>
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+  <a href="https://stackoverflow.com/users/30472215" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/@mishra_anwesha11" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/anweshamishra123" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/@anwesharicvt61/profile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,mongodb,nodejs,express,java,js,ts,html,css,bootstrap,git,aws,redux,pandas,numpy,django,tensorflow,pytorch" />
+</p>
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&theme=radical" alt="anwesha-mishra-9090" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anwesha-mishra-9090&theme=radical" alt="anwesha-mishra-9090" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anwesha-mishra-9090&show_icons=true&locale=en&layout=compact&theme=radical" alt="anwesha-mishra-9090" />
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=darkhub&row=2&column=3" alt="anwesha-mishra-9090" />
+</p>
+
+---
+
+<h3 align="left">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anwesha-mishra-9090/Anwesha-mishra-9090/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
