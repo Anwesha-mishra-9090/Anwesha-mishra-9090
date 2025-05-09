@@ -64,8 +64,7 @@
 
 <h3 align="left">🐍 Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anwesha-mishra-9090/Anwesha-mishra-9090/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
+![GitHub Snake](https://github.com/Anwesha-mishra-9090/Anwesha-mishra-9090/blob/output/github-contribution-grid-snake.svg)
+  </p>
 ---
 
