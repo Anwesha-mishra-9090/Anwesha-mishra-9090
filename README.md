@@ -22,14 +22,16 @@
 - ⚡ Fun fact: I enjoy solving small problems and watching my code work!
 
 ---
-
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://stackoverflow.com/users/30472215" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://github.com/anwesha-mishra-9090" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anwesha-mishra-3a0204359/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/@mishra_anwesha11" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://www.leetcode.com/anweshamishra123" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://stackoverflow.com/users/30472215" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/@anwesharicvt61/profile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
+
 
 ---
 
@@ -39,10 +41,25 @@
 </p>
 
 ---
-
-<h3 align="left">📈 GitHub Stats</h3>
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anwesha-mishra-9090&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anwesha-mishra-9090&
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anwesha-mishra-9090&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha-mishra-9090&layout=compact&theme=radical" width="50%" />
+</p>
+<p>
+# Anwesha Mishra's GitHub Stats<br>
+- ⭐ **Total Stars Earned:** 2<br>
+- 📅 **Total Commits (2025):** 30<br>
+- 📄 **Total PRs:** 0<br>
+- 🐛 **Total Issues:** 0<br>
+- ✔️ **Contributed to (last year):** 0<br>
+</p>
+
