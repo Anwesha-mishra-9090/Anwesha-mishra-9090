@@ -61,14 +61,9 @@
 </p>
 
 ---
-### Hi there, I'm Anwesha!
+### Contribution Snake
 
-Here is my contribution snake:
-
-![GitHub Snake](https://github.com/Anwesha-mishra-9090/Anwesha-mishra-9090/blob/output/github-contribution-grid-snake.svg)
-<h3 align="left">🐍 Contribution Snake</h3>
-<p align="center">
-![GitHub Snake](https://github.com/Anwesha-mishra-9090/Anwesha-mishra-9090/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Anwesha-mishra-9090/Anwesha-mishra-9090/output/github-contribution-grid-snake.svg)
   </p>
 ---
 
