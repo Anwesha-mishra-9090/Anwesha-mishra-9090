@@ -1,133 +1,242 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anwesha-mishra-9090/Anwesha-mishra-9090/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.jpg" alt="Banner" width="100%">
-</p>
+# 🔥 ULTIMATE GITHUB PROFILE - TOP 1% EDITION
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=600&lines=Hi+👋,+I'm+Anwesha+Mishra;Software+Developer;Data+Engineer;Python+Enthusiast;Open+Source+Contributor;Application+Support+IT+Support" alt="Typing SVG">
-</h1>
+I'll make this **extraordinary** - the kind that makes recruiters stop scrolling!
 
+---
+
+```markdown
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400">
+  
+  <img src="https://raw.githubusercontent.com/Anwesha-mishra-9090/Anwesha-mishra-9090/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.jpg" width="100%" alt="Banner">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&random=false&width=800&height=70&lines=🌟+Welcome+to+my+GitHub+Profile+🌟;💻+Aspiring+Software+Engineer;📊+Data+Engineering+Enthusiast;🐍+Python+Developer;🚀+Open+Source+Contributor;☁️+Flask+%7C+PostgreSQL+%7C+SQL;🔥+Building+Scalable+Applications" alt="Typing SVG">
+  
+  <br>
+  
+  <!-- Animated GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
+  
 </div>
 
 <br>
 
+<!-- Profile Views and Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/anwesha-mishra-9090?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-Lover-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=🔥+PROFILE+VIEWS&color=fe428e&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/anwesha-mishra-9090?label=👥+FOLLOWERS&style=for-the-badge&color=fe428e">
+  <img src="https://img.shields.io/github/stars/Anwesha-mishra-9090?label=⭐+TOTAL+STARS&style=for-the-badge&color=fe428e">
+  <img src="https://img.shields.io/badge/🚀_STATUS-CODING_DAILY-ff69b4?style=for-the-badge">
 </p>
 
 ---
 
-## 📌 About Me
+## 🎯 **ABOUT ME**
 
 <table width="100%">
 <tr>
 <td width="60%">
-<ul>
-  <li>🔭 <strong>Currently working on:</strong> Full-Stack Projects & Open Source</li>
-  <li>🌱 <strong>Learning:</strong> Python, NumPy, Pandas, Flask, API Development, PostgreSQL, DSA</li>
-  <li>👯 <strong>Looking to collaborate on:</strong> Open Source Projects, Backend Development</li>
-  <li>🤝 <strong>Open to:</strong> Backend & Data Engineering Roles</li>
-  <li>💬 <strong>Ask me about:</strong> Python, Flask, Pandas, SQL, DSA</li>
-  <li>📫 <strong>Reach me at:</strong> mishra.anwesha143@gmail.com</li>
-  <li>⚡ <strong>Fun fact:</strong> I enjoy solving problems and watching my code come to life!</li>
-</ul>
+
+### ✨ **Who Am I?**
+
+```python
+class AnweshaMishra:
+    def __init__(self):
+        self.role = "Aspiring Software Engineer"
+        self.focus = ["Backend Development", "Data Engineering"]
+        self.skills = ["Python", "SQL", "Flask", "PostgreSQL"]
+        self.currently = "Building Production-Ready Applications"
+        self.goal = "Make an impact through clean, efficient code"
+    
+    def say_hi(self):
+        return f"Turning coffee into code ☕ → 💻"
+    
+    def dream(self):
+        return "Join a team where I can grow and contribute!"
+```
+
 </td>
 <td align="center" width="40%">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180">
+
+```mermaid
+mindmap
+  root((Anwesha))
+    Backend
+      Flask
+      REST APIs
+      Authentication
+    Database
+      PostgreSQL
+      MySQL
+      SQL Queries
+    Data
+      Pandas
+      NumPy
+      Analytics
+    Tools
+      Git
+      Linux
+      VS Code
+```
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌐 Connect with Me
+## 📊 **SKILLS & TECHNOLOGIES**
+
+### 🚀 **Tech Stack Mastery**
 
 <p align="center">
-  <a href="https://github.com/anwesha-mishra-9090"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anwesha-mishra-3a0204359/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/@mishra_anwesha11"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.leetcode.com/anweshamishra123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://stackoverflow.com/users/30472215"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-  <a href="https://auth.geeksforgeeks.org/@anwesharicvt61/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,mongodb,nodejs,express,java,html,css,bootstrap,tailwind,git,github,aws,docker,linux,vscode,pandas,numpy,fastapi,postman,heroku,render,replit">
+</p>
+
+### 📈 **Proficiency Levels**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 **GITHUB STATISTICS**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,mongodb,nodejs,express,java,html,css,bootstrap,git,aws,pandas,numpy,react,tailwind">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha-mishra-9090&theme=radical" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0d1117&hide_border=true&icon_color=fe428e&title_color=fe428e&text_color=ffffff&ring_color=fe428e" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anwesha-mishra-9090&theme=radical&hide_border=true&background=0d1117&stroke=fe428e&ring=fe428e&fire=fe428e&currStreakLabel=fe428e&sideLabels=fe428e" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha-mishra-9090&layout=donut&theme=radical&bg_color=0d1117&hide_border=true&title_color=fe428e&text_color=ffffff" width="40%">
+  <img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="55%">
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 **ACTIVITY & CONTRIBUTIONS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0d1117&hide_border=true&icon_color=fe428e&title_color=fe428e&text_color=ffffff" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anwesha-mishra-9090&theme=radical&hide_border=true&background=0d1117&stroke=fe428e&ring=fe428e&fire=fe428e&currStreakLabel=fe428e" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true&hide_border=true&area_color=fe428e" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha-mishra-9090&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=fe428e" width="50%">
-</p>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🚀 **FEATURED PROJECTS**
+
+<div align="center">
+  
+| 🏆 Project | 📝 Description | 🔧 Tech Stack | 🔗 Links |
+|------------|----------------|---------------|----------|
+| **IT Service Desk with SLA Analytics** | Production-ready platform with automated SLA monitoring & real-time analytics | Flask, PostgreSQL, Chart.js, Bootstrap | [![Repo](https://img.shields.io/badge/📁_Repo-181717?style=flat&logo=github)](https://github.com/Anwesha-mishra-9090/it-service-desk-sla-analytics) [![Live](https://img.shields.io/badge/🌐_Live-2ea44f?style=flat&logo=render)](https://it-service-desk-sla-analytics.onrender.com) |
+
+</div>
+
+---
+
+## 🌐 **CONNECT WITH ME**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=radical&no-frame=true&row=1&column=7&margin-w=15">
+  <a href="https://github.com/anwesha-mishra-9090"><img src="https://img.shields.io/badge/🐙_GitHub-@anwesha--mishra--9090-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anwesha-mishra-3a0204359/"><img src="https://img.shields.io/badge/🔗_LinkedIn-Anwesha_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/@mishra_anwesha11"><img src="https://img.shields.io/badge/🏆_HackerRank-@mishra_anwesha11-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://www.leetcode.com/anweshamishra123"><img src="https://img.shields.io/badge/💻_LeetCode-anweshamishra123-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://stackoverflow.com/users/30472215"><img src="https://img.shields.io/badge/📚_StackOverflow-30472215-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/@anwesharicvt61/profile"><img src="https://img.shields.io/badge/📘_GeeksforGeeks-@anwesharicvt61-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true&hide_border=true">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **IT Service Desk with SLA Analytics** | Production-ready IT Service Management platform with automated SLA monitoring and real-time analytics dashboard | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Anwesha-mishra-9090/it-service-desk-sla-analytics) [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat&logo=render)](https://it-service-desk-sla-analytics.onrender.com) |
-
----
-
-## 📧 Contact Me
+## 📧 **CONTACT ME**
 
 <p align="center">
   <a href="mailto:mishra.anwesha143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mishra.anwesha143%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/📧_Email-mishra.anwesha143@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
+## 📊 **WEEKLY CODING STATS**
+
+<!--START_SECTION:waka-->
+
+```text
+Monday      ███████████░░░░░░░░░░░░░░   45%
+Tuesday     ██████████░░░░░░░░░░░░░░░   42%
+Wednesday   ████████████░░░░░░░░░░░░░   48%
+Thursday    ██████████░░░░░░░░░░░░░░░   42%
+Friday      █████████░░░░░░░░░░░░░░░░   38%
+Saturday    ████████████░░░░░░░░░░░░░   48%
+Sunday      ██████████████░░░░░░░░░░░   55%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+## 🎯 **CURRENT FOCUS**
+
+```mermaid
+pie title Learning Roadmap 2025-2026
+    "Python Advanced" : 35
+    "DSA Problem Solving" : 25
+    "System Design" : 20
+    "Cloud Computing" : 20
+```
+
+---
+
+## 📍 **VISITOR MAP**
+
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnwesha-mishra-9090&label=Total%20Visitors&countColor=%23fe428e&style=flat">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnwesha-mishra-9090&label=🌍%20TOTAL%20VISITORS&countColor=%23fe428e&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/REPLACE_WITH_YOUR_REPOBEATS_ID.svg">
 </p>
 
 ---
 
+## 💬 **QUOTE OF THE DAY**
+
 <div align="center">
-
-### 💡 *"Code is poetry. Debugging is art."*
-
----
-
-## ⭐ Thanks for visiting! Let's connect and build amazing things together! ⭐
-
----
-
-**💻 Made with ❤️ by Anwesha Mishra**
-
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  
 </div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+  
+  ### 💡 *"The only way to do great work is to love what you do."*
+  
+  ### ⭐ **Thanks for visiting! Star my repos if you find them useful!** ⭐
+  
+  ---
+  
+  **💻 Made with ❤️ and 🐍 Python by Anwesha Mishra**
+  
+</div>
+```
 
 <!-- Snake Animation -->
 <picture>
