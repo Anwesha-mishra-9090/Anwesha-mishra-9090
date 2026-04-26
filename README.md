@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Anwesha+Mishra;Aspiring+Software+Engineer;Backend+Developer;Data+Enthusiast;Python+%7C+SQL+%7C+Flask;Building+Scalable+Apps" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Anwesha+Mishra;Aspiring+Backend+Developer;Software+Developer;Data+Engineer+from+India;Python+%7C+SQL+%7C+Flask;Building+Scalable+Apps" alt="Typing SVG">
   
   <br>
   
@@ -8,9 +8,9 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=🔥+PROFILE+VIEWS&color=fe428e&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/anwesha-mishra-9090?label=👥+FOLLOWERS&style=for-the-badge&color=fe428e">
-  <img src="https://img.shields.io/github/stars/Anwesha-mishra-9090?label=⭐+STARS&style=for-the-badge&color=fe428e">
+  <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=🔥+PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/anwesha-mishra-9090?label=👥+FOLLOWERS&style=for-the-badge&color=0e75b6">
+  <img src="https://img.shields.io/github/stars/Anwesha-mishra-9090?label=⭐+STARS&style=for-the-badge&color=0e75b6&value=2">
   
 </div>
 
@@ -22,11 +22,11 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │                         ANWESHA MISHRA                          │
 ├─────────────────────────────────────────────────────────────────┤
-│  👤 Role          │  Aspiring Software Engineer                 │
-│  🔧 Skills       │  Python, SQL, Flask, PostgreSQL             │
-│  🎯 Focus        │  Full-Stack Development                     │
-│  ❤️ Interests    │  Backend, Data Engineering, Open Source     │
-│  🏆 Goal         │  Build impactful applications               │
+│  👤 Role          │  Aspiring Backend Developer                 │
+│  🔧 Skills       │  Python, NumPy, Pandas, Flask, API, PostgreSQL, HTML, CSS, DSA │
+│  🎯 Focus        │  Backend Development & Data Engineering      │
+│  ❤️ Interests    │  Open Source, Solving small problems         │
+│  🏆 Goal         │  Build impactful applications & collaborate  │
 │  📝 Mantra       │  "Code. Learn. Improve. Repeat. 🚀"         │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -36,7 +36,7 @@
 ## 🛠️ **TECH STACK**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,mongodb,java,html,css,bootstrap,git,github,linux,vscode,pandas">
+  <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,mongodb,nodejs,express,java,js,ts,html,css,bootstrap,git,aws,redux,pandas,numpy,django,tensorflow,pytorch">
 </p>
 
 <p align="center">
@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
 ---
@@ -62,21 +64,44 @@
 
 ---
 
-## 🏆 **GITHUB TROPHIES**
+## 📈 **ACTIVITY METRICS**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=radical&no-frame=true&row=2&column=4">
+  ⭐ Total Stars: 2<br>
+  📅 Total Commits (2025): 30<br>
+  📄 Total PRs: 0<br>
+  🐛 Total Issues: 0<br>
+  ✔️ Contributed to (last year): 0<br>
 </p>
 
 ---
 
-## 📈 **CONTRIBUTION GRAPH**
-<!-- Option 1 -->
-<img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=radical&no-frame=true">
+## 🏆 **GITHUB TROPHIES**
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=darkhub&no-frame=true&row=2&column=4">
+</p>
+
+> **Note:** Trophies may take a few minutes to appear. Refresh the page if not showing.
 
 ---
 
+## 📈 **CONTRIBUTION GRAPH**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true&hide_border=true">
+</p>
+
+---
+
+## 🚀 **CURRENT FOCUS**
+
+- 🔭 Working on **Exciting Projects**
+- 🌱 Learning **Python, NumPy, Pandas, Flask, API, PostgreSQL, HTML, CSS, DSA, and Open Source**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 🤝 Open to collaborate on **Backend & Data Engineering**
+- 💬 Ask me about **Python, Flask, Pandas, SQL, DSA**
+
+---
 ## 📊 **WEEKLY CODING STATS**
 
 ```text
@@ -100,15 +125,6 @@ pie title Learning Roadmap 2025-2026
     "System Design" : 20
     "Cloud Computing" : 20
 ```
-
----
-
-## 🚀 **FEATURED PROJECTS**
-
-| 🏆 Project | 📝 Description | 🔧 Tech Stack | 🔗 Links |
-|------------|----------------|---------------|----------|
-| **IT Service Desk with SLA Analytics** | Production-ready platform with automated SLA monitoring & real-time analytics | Flask, PostgreSQL, Chart.js, Bootstrap | [📁 Repo](https://github.com/Anwesha-mishra-9090/it-service-desk-sla-analytics) • [🌐 Live](https://it-service-desk-sla-analytics.onrender.com) |
-
 ---
 
 ## 🌐 **CONNECT WITH ME**
@@ -124,14 +140,14 @@ pie title Learning Roadmap 2025-2026
 </p>
 
 ---
-
-## 📧 **CONTACT**
-
-<p align="center">
-  <strong>📧 Email:</strong> mishra.anwesha143@gmail.com
-</p>
-
 ---
+
+## 🚀 **FEATURED PROJECTS**
+
+| 🏆 Project | 📝 Description | 🔧 Tech Stack | 🔗 Links |
+|------------|----------------|---------------|----------|
+| **IT Service Desk with SLA Analytics** | Production-ready platform with automated SLA monitoring & real-time analytics | Flask, PostgreSQL, Chart.js, Bootstrap | [📁 Repo](https://github.com/Anwesha-mishra-9090/it-service-desk-sla-analytics) • [🌐 Live](https://it-service-desk-sla-analytics.onrender.com) |
+
 
 ## 🐍 **SNAKE ANIMATION**
 
@@ -144,10 +160,10 @@ pie title Learning Roadmap 2025-2026
 ---
 
 <div align="center">
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
   
-  ### 💡 *"Code is poetry. Debugging is art."*
+  ### 💡 *"I enjoy solving small problems and watching my code work!"*
   
   ### ⭐ **Thanks for visiting!** ⭐
   
@@ -156,6 +172,4 @@ pie title Learning Roadmap 2025-2026
   **💻 Made with ❤️ by Anwesha Mishra**
   
 </div>
-```
-
 
