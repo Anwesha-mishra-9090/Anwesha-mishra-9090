@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anwesha Mishra</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Aspiring+Backend+Developer;Software+Developer;Data+Engineer;Python+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Software+Developer;Data+Engineer;Python+Enthusiast;Open+Source+Contributor;Application support+IT support" alt="Typing SVG" />
 </h3>
 
 <div align="center">
