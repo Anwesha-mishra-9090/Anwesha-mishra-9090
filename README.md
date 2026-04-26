@@ -71,10 +71,9 @@
 ---
 
 ## 📈 **CONTRIBUTION GRAPH**
+<!-- Option 1 -->
+<img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=radical&no-frame=true">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true&hide_border=true">
-</p>
 
 ---
 
@@ -94,7 +93,7 @@ Sunday      ██████████████░░░░░░░░�
 
 ## 🎯 **CURRENT FOCUS**
 
-```mermaid
+```
 pie title Learning Roadmap 2025-2026
     "Python Advanced" : 35
     "DSA Problem Solving" : 25
