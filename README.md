@@ -68,7 +68,7 @@
 ---
 
 ## 🛠️ **Tech Stack**
-
+```
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,mongodb,nodejs,express,java,html,css,bootstrap,git,aws,pandas,numpy,react,tailwind" />
 </p>
