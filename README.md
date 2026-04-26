@@ -3,7 +3,6 @@
   ![logo](https://github.com/Anwesha-mishra-9090/Anwesha-mishra-9090/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Anwesha Mishra</h1>
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Aspiring+Backend+Developer;Software+Developer;Data+Engineer+from+India" alt="Typing SVG" /></h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
