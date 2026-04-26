@@ -19,16 +19,17 @@
 
 ## 👩‍💻 **ABOUT ME**
 
-class AnweshaMishra:
-    def __init__(self):
-        self.role = "Aspiring Software Engineer"
-        self.skills = ["Python", "SQL", "Flask", "PostgreSQL"]
-        self.current_focus = "Full-Stack Development"
-        self.interests = ["Backend", "Data Engineering", "Open Source"]
-        self.goal = "Build impactful applications"
-    
-   def daily_mantra(self):
-        return "Code. Learn. Improve. Repeat. 🚀"
+```python
+┌─────────────────────────────────────────────────────────────────┐
+│                         ANWESHA MISHRA                          │
+├─────────────────────────────────────────────────────────────────┤
+│  👤 Role          │  Aspiring Software Engineer                 │
+│  🔧 Skills       │  Python, SQL, Flask, PostgreSQL             │
+│  🎯 Focus        │  Full-Stack Development                     │
+│  ❤️ Interests    │  Backend, Data Engineering, Open Source     │
+│  🏆 Goal         │  Build impactful applications               │
+│  📝 Mantra       │  "Code. Learn. Improve. Repeat. 🚀"         │
+└─────────────────────────────────────────────────────────────────┘
 
 🛠️ TECH STACK
 
