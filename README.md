@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/followers/anwesha-mishra-9090?label=Followers&style=social" />
   <img src="https://img.shields.io/badge/Visitors-1D9BF0?style=flat&logo=github" alt="Profile Visitors" />
 </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Anwesha+Mishra;Aspiring+Backend+Developer;Software+Developer;Data+Engineer+from+India;Python+%7C+SQL+%7C+Flask;Building+Scalable+Apps" alt="Typing SVG">
+  
   
   <br>
   
