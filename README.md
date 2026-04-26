@@ -83,8 +83,7 @@
 </p>
 ---
 ## 🧠 **SKILLS MINDSET**
-<p align="center">
- 
+
 ```mermaid
 mindmap
   root((Anwesha))
@@ -104,7 +103,7 @@ mindmap
       Git
       Linux
       VS Code
-</p>
+
 ```
 
 ## 🎯 **CURRENT FOCUS**
