@@ -49,11 +49,30 @@
 📈 CONTRIBUTION GRAPH
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true&hide_border=true"> </p>
+📊 WEEKLY CODING STATS
+<!--START_SECTION:waka-->
+text
+Monday      ███████████░░░░░░░░░░░░░░   45%
+Tuesday     ██████████░░░░░░░░░░░░░░░   42%
+Wednesday   ████████████░░░░░░░░░░░░░   48%
+Thursday    ██████████░░░░░░░░░░░░░░░   42%
+Friday      █████████░░░░░░░░░░░░░░░░   38%
+Saturday    ████████████░░░░░░░░░░░░░   48%
+Sunday      ██████████████░░░░░░░░░░░   55%
 
-🚀 FEATURED PROJECT
+<!--END_SECTION:waka-->
+🎯 CURRENT FOCUS
+pie title Learning Roadmap 2025-2026
+    "Python Advanced" : 35
+    "DSA Problem Solving" : 25
+    "System Design" : 20
+    "Cloud Computing" : 20
 
-Project	Description	Tech	Links
-IT Service Desk with SLA Analytics	Production-ready IT Service Management platform with automated SLA monitoring and real-time analytics	Flask, PostgreSQL, Chart.js	📁 Repo • 🌐 Live Demo
+🚀 FEATURED PROJECTS
+<div align="center">
+🏆 Project	📝 Description	🔧 Tech Stack	🔗 Links
+IT Service Desk with SLA Analytics	Production-ready platform with automated SLA monitoring & real-time analytics	Flask, PostgreSQL, Chart.js, Bootstrap	https://img.shields.io/badge/%F0%9F%93%81_Repo-181717?style=flat&logo=github https://img.shields.io/badge/%F0%9F%8C%90_Live-2ea44f?style=flat&logo=render
+</div>
 
 🌐 CONNECT WITH ME
 
