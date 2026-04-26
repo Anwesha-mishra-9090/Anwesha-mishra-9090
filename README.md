@@ -121,16 +121,7 @@ Sunday      ██████████████░░░░░░░░�
 
 ---
 
-## 🎯 **CURRENT FOCUS**
 
-```text
-pie title Learning Roadmap 2025-2026
-    "Python Advanced" : 35
-    "DSA Problem Solving" : 25
-    "System Design" : 20
-    "Cloud Computing" : 20
-
-```
 ---
 
 ## 🌐 **CONNECT WITH ME**
