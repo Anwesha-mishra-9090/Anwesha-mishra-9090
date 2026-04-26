@@ -97,13 +97,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha-mishra-9090&layout=compact&theme=radical" width="50%" />
 </p>
 <p>
-# Anwesha Mishra's GitHub Stats<br>
-- ⭐ **Total Stars Earned:** 2<br>
-- 📅 **Total Commits (2025):** 30<br>
-- 📄 **Total PRs:** 0<br>
-- 🐛 **Total Issues:** 0<br>
-- ✔️ **Contributed to (last year):** 0<br>
-</p>   
 
 ## 🚀 **CURRENT FOCUS**
 
