@@ -82,7 +82,9 @@
   ✔️ Contributed to (last year): 0<br>
 </p>
 ---
-</td> <td align="center" width="40%">
+## 🧠 **SKILLS MINDSET**
+
+```mermaid
 mindmap
   root((Anwesha))
     Backend
@@ -101,15 +103,18 @@ mindmap
       Git
       Linux
       VS Code
-</td> </tr> </table>
----
-🎯 CURRENT FOCUS
+```
+
+## 🎯 **CURRENT FOCUS**
+
+```mermaid
 pie title Learning Roadmap 2025-2026
     "Python Advanced" : 35
     "DSA Problem Solving" : 25
     "System Design" : 20
     "Cloud Computing" : 20
-    ---
+```
+
 ## 📈 Contribution Graph
 
 <p align="center">
