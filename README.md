@@ -1,10 +1,4 @@
-# 🔥 ULTIMATE GITHUB PROFILE - TOP 1% EDITION
 
-I'll make this **extraordinary** - the kind that makes recruiters stop scrolling!
-
----
-
-```markdown
 <div align="center">
   
   <img src="https://raw.githubusercontent.com/Anwesha-mishra-9090/Anwesha-mishra-9090/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.jpg" width="100%" alt="Banner">
@@ -238,9 +232,3 @@ pie title Learning Roadmap 2025-2026
 </div>
 ```
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
