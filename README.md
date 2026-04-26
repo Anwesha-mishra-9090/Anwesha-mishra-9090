@@ -81,8 +81,35 @@
   🐛 Total Issues: 0<br>
   ✔️ Contributed to (last year): 0<br>
 </p>
-
 ---
+</td> <td align="center" width="40%">
+mindmap
+  root((Anwesha))
+    Backend
+      Flask
+      REST APIs
+      Authentication
+    Database
+      PostgreSQL
+      MySQL
+      SQL Queries
+    Data
+      Pandas
+      NumPy
+      Analytics
+    Tools
+      Git
+      Linux
+      VS Code
+</td> </tr> </table>
+---
+🎯 CURRENT FOCUS
+pie title Learning Roadmap 2025-2026
+    "Python Advanced" : 35
+    "DSA Problem Solving" : 25
+    "System Design" : 20
+    "Cloud Computing" : 20
+    ---
 ## 📈 Contribution Graph
 
 <p align="center">
