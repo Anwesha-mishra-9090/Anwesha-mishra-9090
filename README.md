@@ -31,7 +31,8 @@
 │                         ANWESHA MISHRA                          │
 ├─────────────────────────────────────────────────────────────────┤
 │  👤 Role          │  Aspiring Backend Developer                 │
-│  🔧 Skills       │  Python, NumPy, Pandas, Flask, API, PostgreSQL, HTML, CSS, DSA │
+│  🔧 Skills       │  Python, NumPy, Pandas, Flask, API,          | 
+│                       PostgreSQL, HTML, CSS, DSA                 | 
 │  🎯 Focus        │  Backend Development & Data Engineering      │
 │  ❤️ Interests    │  Open Source, Solving small problems         │
 │  🏆 Goal         │  Build impactful applications & collaborate  │
