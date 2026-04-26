@@ -20,10 +20,7 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=anwesha-mishra-9090&label=🔥+PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/anwesha-mishra-9090?label=👥+FOLLOWERS&style=for-the-badge&color=0e75b6">
-  <img src="https://img.shields.io/github/stars/Anwesha-mishra-9090?label=⭐+STARS&style=for-the-badge&color=0e75b6&value=2">
-  
+
 </div>
 
 ---
