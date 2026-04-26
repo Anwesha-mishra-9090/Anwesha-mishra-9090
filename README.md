@@ -83,23 +83,27 @@
 </p>
 
 ---
-
-## 🏆 **GITHUB TROPHIES**
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anwesha-mishra-9090&theme=darkhub&no-frame=true&row=2&column=4">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical" alt="Activity Graph" />
 </p>
-
-> **Note:** Trophies may take a few minutes to appear. Refresh the page if not showing.
-
----
-
-## 📈 **CONTRIBUTION GRAPH**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwesha-mishra-9090&theme=radical&bg_color=0d1117&color=fe428e&line=f85d7f&point=ffffff&area=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwesha-mishra-9090&show_icons=true&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anwesha-mishra-9090&theme=radical" width="45%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha-mishra-9090&layout=compact&theme=radical" width="50%" />
+</p>
+<p>
+# Anwesha Mishra's GitHub Stats<br>
+- ⭐ **Total Stars Earned:** 2<br>
+- 📅 **Total Commits (2025):** 30<br>
+- 📄 **Total PRs:** 0<br>
+- 🐛 **Total Issues:** 0<br>
+- ✔️ **Contributed to (last year):** 0<br>
+</p>   
 
 ## 🚀 **CURRENT FOCUS**
 
